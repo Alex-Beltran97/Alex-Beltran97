@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexanderbeltran97/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderbeltran97/) 
 
 # 😎🤘 About Me:
 I am a creative and collaborative Full Stack Developer with over 1 year of experience. My skill set includes expertise in HTML, CSS, JavaScript, TypeScript, React.js, Redux, Material UI, Node.js, Express.js, MongoDB, MySQL, Git, and GitHub. I thrive on finding innovative solutions and adding value to companies through my work. With a strong collaborative spirit, I enjoy working in teams and effectively communicating to contribute to project success. I possess problem-solving skills, adaptability, and a results-driven approach. Let's create something amazing together!
